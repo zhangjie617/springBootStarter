@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.100.202:3306/springstarter
+    username: root
+    password: 123456
+  jpa:
+    hibernate:
+      ddl-auto: update #create
+    show-sql: true
