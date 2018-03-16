@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jpa/jpa.iml" filepath="$PROJECT_DIR$/jpa/jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvc/mvc.iml" filepath="$PROJECT_DIR$/mvc/mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickStart/quickStart.iml" filepath="$PROJECT_DIR$/quickStart/quickStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBootStarter4Github.iml" filepath="$PROJECT_DIR$/springBootStarter4Github.iml" />
+    </modules>
+  </component>
+</project>
