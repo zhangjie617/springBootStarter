@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/mvc/mvc.iml" filepath="$PROJECT_DIR$/mvc/mvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/quickStart/quickStart.iml" filepath="$PROJECT_DIR$/quickStart/quickStart.iml" />
       <module fileurl="file://$PROJECT_DIR$/springBootStarter4Github.iml" filepath="$PROJECT_DIR$/springBootStarter4Github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat/tomcat.iml" filepath="$PROJECT_DIR$/tomcat/tomcat.iml" />
     </modules>
   </component>
 </project>

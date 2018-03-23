@@ -9,12 +9,15 @@
         <module name="jpa" />
         <module name="mvc" />
         <module name="quickStart" />
+        <module name="tomcat" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="dd" target="1.5" />
       <module name="jpa" target="1.6" />
       <module name="mvc" target="1.6" />
       <module name="quickStart" target="1.6" />
+      <module name="tomcat" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
